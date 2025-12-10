@@ -1,0 +1,38 @@
+:root {
+    --primary-color: #4e54c8;
+    --secondary-color: #8f94fb;
+    --success-color: #28a745;
+    --warning-color: #ffc107;
+    --danger-color: #dc3545;
+    --info-color: #17a2b8;
+    --light-color: #f8f9fa;
+    --dark-color: #343a40;
+    
+    /* Petshop theme colors */
+    --petshop-pink: #ff6b8b;
+    --petshop-blue: #4ecdc4;
+    --petshop-purple: #8a2be2;
+    --petshop-orange: #ffa500;
+    --petshop-green: #32cd32;
+}
+
+.petshop-bg-primary {
+    background: linear-gradient(135deg, var(--primary-color), var(--secondary-color)) !important;
+}
+
+.petshop-text-primary {
+    color: var(--primary-color) !important;
+}
+
+.btn-petshop {
+    background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+    border: none;
+    color: white;
+    transition: all 0.3s ease;
+}
+
+.btn-petshop:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 15px rgba(78, 84, 200, 0.4);
+    color: white;
+}

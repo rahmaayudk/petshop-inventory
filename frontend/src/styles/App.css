@@ -1,0 +1,182 @@
+@import 'Colors.css';
+@import 'DarkMode.css';
+
+:root {
+    --sidebar-width: 220px;
+    --header-height: 56px;
+}
+
+/* Global Styles */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f9fa;
+}
+
+.app-container {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    /* leave space for fixed header */
+    padding-top: var(--header-height);
+}
+
+/* Sidebar Styles */
+.sidebar {
+    min-height: calc(100vh - 56px);
+    background: linear-gradient(180deg, #4e54c8 0%, #8f94fb 100%);
+    transition: all 0.3s;
+}
+
+.sidebar .nav-link {
+    color: white !important;
+    padding: 12px 20px;
+    margin: 4px 0;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+}
+
+.sidebar .nav-link:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+    transform: translateX(5px);
+}
+
+.sidebar .nav-link.active {
+    background-color: rgba(255, 255, 255, 0.3);
+    font-weight: bold;
+}
+
+/* Card Styles */
+.stat-card {
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.stat-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+}
+
+/* Table Styles */
+.table-responsive {
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.table th {
+    border-top: none;
+    font-weight: 600;
+    background-color: #f8f9fa;
+}
+
+.dark-mode .table th {
+    background-color: #4a5568;
+}
+
+/* Badge Styles */
+.stock-badge {
+    font-size: 0.75em;
+    padding: 4px 8px;
+    border-radius: 12px;
+}
+
+/* Loading Spinner */
+.loading-spinner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .sidebar {
+        min-height: auto;
+    }
+    
+    .stat-card {
+        margin-bottom: 1rem;
+    }
+}
+
+/* Make sidebar fixed on medium+ screens so it doesn't scroll away
+   and allow main content to scroll independently. */
+@media (min-width: 768px) {
+    :root {
+        --sidebar-width: 220px;
+        --header-height: 56px;
+    }
+
+    .sidebar {
+        position: fixed;
+        top: var(--header-height);
+        left: 0;
+        width: var(--sidebar-width);
+        height: calc(100vh - var(--header-height));
+        overflow-y: auto;
+        z-index: 1020;
+    }
+
+    /* Ensure the main content leaves space for the fixed sidebar */
+    .app-container .container-fluid .row > main {
+        margin-left: var(--sidebar-width);
+        width: calc(100% - var(--sidebar-width));
+    }
+
+    /* Make header fixed at top so it stays visible when scrolling */
+    .navbar {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        height: var(--header-height);
+        z-index: 1040;
+    }
+}
+
+/* Animation */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.fade-in {
+    animation: fadeIn 0.5s ease-in-out;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #c1c1c1;
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #a8a8a8;
+}
+
+.dark-mode ::-webkit-scrollbar-track {
+    background: #2d3748;
+}
+
+.dark-mode ::-webkit-scrollbar-thumb {
+    background: #4a5568;
+}
+
+.dark-mode ::-webkit-scrollbar-thumb:hover {
+    background: #718096;
+}

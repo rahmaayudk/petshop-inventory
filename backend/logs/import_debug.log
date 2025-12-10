@@ -1,0 +1,2021 @@
+[2025-12-03 13:26:07] Received import payload with 120 rows
+array (
+  0 => 
+  (object) array(
+     'sku_code' => 'PSR-EQQ-001',
+     'name' => 'Pasir Kucing',
+     'category' => 'pasir',
+     'animal_type' => 'kucing',
+     'current_stock' => 5,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 40000,
+  ),
+  1 => 
+  (object) array(
+     'sku_code' => 'DOG-DRY-001',
+     'name' => 'Royal Canin Maxi Adult',
+     'category' => 'makanan kering',
+     'animal_type' => 'anjing',
+     'current_stock' => 52,
+     'min_stock_threshold' => 10,
+     'price_buy' => 250000,
+     'price_sell' => 325000,
+  ),
+  2 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-001',
+     'name' => 'Makanan repack 250gr',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 5,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  3 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-002',
+     'name' => 'Makanan repack 400gr',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 5,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  4 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-003',
+     'name' => 'Pasir zeolite repack 1',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 6,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  5 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-004',
+     'name' => 'Pasir zeolite repack 2',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 7,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  6 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-005',
+     'name' => 'Pasir zeolite repack 3',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 8,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  7 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-006',
+     'name' => 'Pasir zeolite karung 1',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 9,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  8 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-007',
+     'name' => 'Pasir zeolite karung 2',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 9,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  9 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-008',
+     'name' => 'Pasir zeolite karung 3',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 9,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  10 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-009',
+     'name' => 'Pasir markotops 5lt apel',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 9,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  11 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-010',
+     'name' => 'Pasir markotops 5lt sakura',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 9,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  12 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-011',
+     'name' => 'Pasir markotops 5lt lemon',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 12,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  13 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-012',
+     'name' => 'Pasir markotops 5lt kopi',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 12,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  14 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-013',
+     'name' => 'Pasir markotops 5lt lavender',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 13,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  15 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-014',
+     'name' => 'Pasir markotops 10lt apel',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 14,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  16 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-015',
+     'name' => 'Pasir markotops 10lt lavender',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 1,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  17 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-016',
+     'name' => 'Pasir markotops 10lt kopi',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 5,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  18 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-017',
+     'name' => 'Pasir markotops 10lt lemon',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 20,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  19 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-018',
+     'name' => 'Pasir markotops 10lt baby powder',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 12,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  20 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-019',
+     'name' => 'Pasir markotops 25lt apel',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 6,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  21 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-020',
+     'name' => 'Pasir markotops 25lt lemon',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 3,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  22 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-021',
+     'name' => 'Pasir markotops 25lt kopi',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 3,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  23 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-022',
+     'name' => 'Pasir markotops 25lt baby powder',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 3,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  24 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-023',
+     'name' => 'Pasir top cat 5lt apel',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 2,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  25 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-024',
+     'name' => 'Pasir top cat 5lt lemon',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 6,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  26 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-025',
+     'name' => 'Pasir top cat 5lt kopi',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 12,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  27 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-026',
+     'name' => 'Pasir top cat 10lt lavender',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 12,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  28 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-027',
+     'name' => 'Pasir top cat 10lt apel',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 12,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  29 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-028',
+     'name' => 'Pasir top cat 10lt kopi',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 23,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  30 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-029',
+     'name' => 'Pasir top cat 25lt apel',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 23,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  31 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-030',
+     'name' => 'Pasir top cat 25lt kopi',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 23,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  32 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-031',
+     'name' => 'Pasir top cat 25lt lavender',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 3,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  33 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-032',
+     'name' => 'Pasir royal cat sand 3lt apel',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 4,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  34 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-033',
+     'name' => 'Pasir royal cat sand 3lt jambu',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 6,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  35 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-034',
+     'name' => 'Pasir royal cat sand 3lt kopi',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 5,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  36 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-035',
+     'name' => 'Pasir royal cat sand 3lt sakura',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 4,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  37 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-036',
+     'name' => 'Pasir royal cat sand 3lt kopi',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 12,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  38 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-037',
+     'name' => 'Pasir royal cat sand 3lt lemon',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 10,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  39 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-038',
+     'name' => 'Pasir royal cat sand 3lt jasmine',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 10,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  40 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-039',
+     'name' => 'Pasir royal cat sand 3lt grape',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 10,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  41 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-040',
+     'name' => 'Pasir royal cat sand 11lt apel',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 17,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  42 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-041',
+     'name' => 'Pasir royal cat sand 11lt kopi',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 7,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  43 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-042',
+     'name' => 'Pasir royal cat sand 11lt lavender',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 4,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  44 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-043',
+     'name' => 'Pasir royal cat sand 11lt lemon',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 2,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  45 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-044',
+     'name' => 'Pasir royal cat sand 11lt jambu',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 1,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  46 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-045',
+     'name' => 'Pasir royal cat sand 11lt sakura',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 1,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  47 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-046',
+     'name' => 'Pasir royal cat sand 25lt apel',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 1,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  48 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-047',
+     'name' => 'Pasir royal cat sand 25lt sakura',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 6,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  49 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-048',
+     'name' => 'Pasir royal cat sand 25lt kopi',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 20,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  50 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-049',
+     'name' => 'Pasir royal cat sand 25lt jambu',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 21,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  51 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-050',
+     'name' => 'Pasir royal cat sand 25lt lemon',
+     'category' => 'pasir',
+     'animal_type' => 'anjing',
+     'current_stock' => 22,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  52 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-051',
+     'name' => 'Pasir tofu maxlife peach 7lt',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 23,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  53 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-052',
+     'name' => 'Pasir tofu maxlife lavender 7lt',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 23,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  54 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-053',
+     'name' => 'Pasir tofu maxlife apel 7lt',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 26,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  55 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-054',
+     'name' => 'Pasir tofu maxlife kopi 7lt',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 25,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  56 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-055',
+     'name' => 'Pasir tofu maxlife bbg 7lt',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 1,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  57 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-056',
+     'name' => 'Pasir tofu life cat mangga 7lt',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 2,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  58 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-057',
+     'name' => 'Pasir tofu life cat bbg 7lt',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 3,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  59 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-058',
+     'name' => 'Pasir tofu markotops strawberry 7lt',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 4,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  60 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-059',
+     'name' => 'Pasir tofu markotops greentea 7lt',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 5,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  61 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-060',
+     'name' => 'Pasir tofu markotops peach 7lt',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 6,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  62 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-061',
+     'name' => 'Pasir tofu arkotops donat 7lt',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 7,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  63 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-062',
+     'name' => 'Pasir tofu rasty rose 8lt',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 8,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  64 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-063',
+     'name' => 'Pasir tofu rasty peach  8lt',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 9,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  65 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-064',
+     'name' => 'Pasir tofu rasty bbg 8lt',
+     'category' => 'pasir',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 0,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  66 => 
+  (object) array(
+     'sku_code' => 'CAT-BSH-217',
+     'name' => 'Rc M & B wet kaleng',
+     'category' => 'makanan basah',
+     'animal_type' => 'kucing',
+     'current_stock' => 0,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  67 => 
+  (object) array(
+     'sku_code' => 'CAT-BSH-218',
+     'name' => 'Rc M & B wet jar 100gr',
+     'category' => 'makanan basah',
+     'animal_type' => 'kucing',
+     'current_stock' => 0,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  68 => 
+  (object) array(
+     'sku_code' => 'CAT-BSH-219',
+     'name' => 'Rc M & B cat milk',
+     'category' => 'makanan basah',
+     'animal_type' => 'kucing',
+     'current_stock' => 0,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  69 => 
+  (object) array(
+     'sku_code' => 'CAT-BSH-220',
+     'name' => 'Rc M & B 2kg',
+     'category' => 'makanan basah',
+     'animal_type' => 'kucing',
+     'current_stock' => 0,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  70 => 
+  (object) array(
+     'sku_code' => 'CAT-BSH-221',
+     'name' => 'Rc M & B 400gr',
+     'category' => 'makanan basah',
+     'animal_type' => 'kucing',
+     'current_stock' => 12,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  71 => 
+  (object) array(
+     'sku_code' => 'CAT-BSH-222',
+     'name' => 'Rc BSH adult 400gr',
+     'category' => 'makanan basah',
+     'animal_type' => 'kucing',
+     'current_stock' => 12,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  72 => 
+  (object) array(
+     'sku_code' => 'CAT-BSH-223',
+     'name' => 'Rc BSH adult 2kg',
+     'category' => 'makanan basah',
+     'animal_type' => 'kucing',
+     'current_stock' => 1,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  73 => 
+  (object) array(
+     'sku_code' => 'CAT-BSH-224',
+     'name' => 'Rc BSH kitten 400gr',
+     'category' => 'makanan basah',
+     'animal_type' => 'kucing',
+     'current_stock' => 12,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  74 => 
+  (object) array(
+     'sku_code' => 'CAT-BSH-225',
+     'name' => 'Rc BSH kitten 2kg',
+     'category' => 'makanan basah',
+     'animal_type' => 'kucing',
+     'current_stock' => 33,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  75 => 
+  (object) array(
+     'sku_code' => 'CAT-BSH-226',
+     'name' => 'Rc digestive pch',
+     'category' => 'makanan basah',
+     'animal_type' => 'kucing',
+     'current_stock' => 24,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  76 => 
+  (object) array(
+     'sku_code' => 'CAT-BSH-227',
+     'name' => 'Rc digestive 400gr',
+     'category' => 'makanan basah',
+     'animal_type' => 'kucing',
+     'current_stock' => 0,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  77 => 
+  (object) array(
+     'sku_code' => 'CAT-BSH-228',
+     'name' => 'Rc digestive 2kg',
+     'category' => 'makanan basah',
+     'animal_type' => 'kucing',
+     'current_stock' => 21,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  78 => 
+  (object) array(
+     'sku_code' => 'CAT-BSH-229',
+     'name' => 'Rc gastro adult 400gr',
+     'category' => 'makanan basah',
+     'animal_type' => 'kucing',
+     'current_stock' => 0,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  79 => 
+  (object) array(
+     'sku_code' => 'CAT-BSH-230',
+     'name' => 'Rc gastro adult 2kg',
+     'category' => 'makanan basah',
+     'animal_type' => 'kucing',
+     'current_stock' => 12,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  80 => 
+  (object) array(
+     'sku_code' => 'CAT-BSH-231',
+     'name' => 'Rc gastro adult pch',
+     'category' => 'makanan basah',
+     'animal_type' => 'kucing',
+     'current_stock' => 11,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  81 => 
+  (object) array(
+     'sku_code' => 'CAT-BSH-232',
+     'name' => 'Rc gastro kitten wet kaleng',
+     'category' => 'makanan basah',
+     'animal_type' => 'kucing',
+     'current_stock' => 1,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  82 => 
+  (object) array(
+     'sku_code' => 'CAT-BSH-233',
+     'name' => 'Rc gastro kitten 400gr',
+     'category' => 'makanan basah',
+     'animal_type' => 'kucing',
+     'current_stock' => 1,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  83 => 
+  (object) array(
+     'sku_code' => 'CAT-BSH-234',
+     'name' => 'Rc gastro fibre 400gr',
+     'category' => 'makanan basah',
+     'animal_type' => 'kucing',
+     'current_stock' => 1,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  84 => 
+  (object) array(
+     'sku_code' => 'CAT-BSH-235',
+     'name' => 'Rc gastro hairball 400gr',
+     'category' => 'makanan basah',
+     'animal_type' => 'kucing',
+     'current_stock' => 1,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  85 => 
+  (object) array(
+     'sku_code' => 'CAT-BSH-236',
+     'name' => 'Rc hair & skin pch',
+     'category' => 'makanan basah',
+     'animal_type' => 'kucing',
+     'current_stock' => 2,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  86 => 
+  (object) array(
+     'sku_code' => 'CAT-BSH-237',
+     'name' => 'Rc hair & skin 400GR',
+     'category' => 'makanan basah',
+     'animal_type' => 'kucing',
+     'current_stock' => 2,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  87 => 
+  (object) array(
+     'sku_code' => 'CAT-BSH-238',
+     'name' => 'Rc hair & skin 2kg',
+     'category' => 'makanan basah',
+     'animal_type' => 'kucing',
+     'current_stock' => 2,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  88 => 
+  (object) array(
+     'sku_code' => 'CAT-BSH-239',
+     'name' => 'Rc skin & coat 400gr',
+     'category' => 'makanan basah',
+     'animal_type' => 'kucing',
+     'current_stock' => 2,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  89 => 
+  (object) array(
+     'sku_code' => 'CAT-BSH-240',
+     'name' => 'Rc skin & coat 1,5kg',
+     'category' => 'makanan basah',
+     'animal_type' => 'kucing',
+     'current_stock' => 3,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  90 => 
+  (object) array(
+     'sku_code' => 'CAT-BSH-241',
+     'name' => 'Rc instinsive pch',
+     'category' => 'makanan basah',
+     'animal_type' => 'kucing',
+     'current_stock' => 3,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  91 => 
+  (object) array(
+     'sku_code' => 'CAT-BSH-242',
+     'name' => 'Rc kitten pch',
+     'category' => 'makanan basah',
+     'animal_type' => 'kucing',
+     'current_stock' => 3,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  92 => 
+  (object) array(
+     'sku_code' => 'CAT-BSH-243',
+     'name' => 'Rc kitten 400gr',
+     'category' => 'makanan basah',
+     'animal_type' => 'kucing',
+     'current_stock' => 3,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  93 => 
+  (object) array(
+     'sku_code' => 'CAT-BSH-244',
+     'name' => 'Rc kitten 2kg',
+     'category' => 'makanan basah',
+     'animal_type' => 'kucing',
+     'current_stock' => 34,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  94 => 
+  (object) array(
+     'sku_code' => 'CAT-BSH-245',
+     'name' => 'Rc persian adult pch',
+     'category' => 'makanan basah',
+     'animal_type' => 'kucing',
+     'current_stock' => 12,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  95 => 
+  (object) array(
+     'sku_code' => 'CAT-BSH-246',
+     'name' => 'Rc persian adult 400gr',
+     'category' => 'makanan basah',
+     'animal_type' => 'kucing',
+     'current_stock' => 28,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  96 => 
+  (object) array(
+     'sku_code' => 'CAT-BSH-247',
+     'name' => 'Rc persian adult 2kg',
+     'category' => 'makanan basah',
+     'animal_type' => 'kucing',
+     'current_stock' => 28,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  97 => 
+  (object) array(
+     'sku_code' => 'CAT-BSH-248',
+     'name' => 'Rc persian kitten 400gr',
+     'category' => 'makanan basah',
+     'animal_type' => 'kucing',
+     'current_stock' => 24,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  98 => 
+  (object) array(
+     'sku_code' => 'CAT-BSH-249',
+     'name' => 'Rc persian kitten 2kg',
+     'category' => 'makanan basah',
+     'animal_type' => 'kucing',
+     'current_stock' => 23,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  99 => 
+  (object) array(
+     'sku_code' => 'CAT-BSH-250',
+     'name' => 'Rc recovery wet kaleng',
+     'category' => 'makanan basah',
+     'animal_type' => 'kucing',
+     'current_stock' => 21,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  100 => 
+  (object) array(
+     'sku_code' => 'CAT-BSH-251',
+     'name' => 'Rc renal 400gr',
+     'category' => 'makanan basah',
+     'animal_type' => 'kucing',
+     'current_stock' => 11,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  101 => 
+  (object) array(
+     'sku_code' => 'CAT-BSH-252',
+     'name' => 'Rc urinary care 400gr',
+     'category' => 'makanan basah',
+     'animal_type' => 'kucing',
+     'current_stock' => 1,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  102 => 
+  (object) array(
+     'sku_code' => 'CAT-BSH-253',
+     'name' => 'Rc urinary care 2kg',
+     'category' => 'makanan basah',
+     'animal_type' => 'kucing',
+     'current_stock' => 16,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  103 => 
+  (object) array(
+     'sku_code' => 'CAT-BSH-254',
+     'name' => 'Rc urinary care pch',
+     'category' => 'makanan basah',
+     'animal_type' => 'kucing',
+     'current_stock' => 16,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  104 => 
+  (object) array(
+     'sku_code' => 'CAT-BSH-255',
+     'name' => 'Rc urinary s/o pch',
+     'category' => 'makanan basah',
+     'animal_type' => 'kucing',
+     'current_stock' => 0,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  105 => 
+  (object) array(
+     'sku_code' => 'CAT-BSH-256',
+     'name' => 'Rc urinary s/0 400gr',
+     'category' => 'makanan basah',
+     'animal_type' => 'kucing',
+     'current_stock' => 0,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  106 => 
+  (object) array(
+     'sku_code' => 'CAT-BSH-257',
+     'name' => 'Rc urinary s/0 2kg',
+     'category' => 'makanan basah',
+     'animal_type' => 'kucing',
+     'current_stock' => 1,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  107 => 
+  (object) array(
+     'sku_code' => 'CAT-BSH-258',
+     'name' => 'Nutricel  recovery wet kaleng',
+     'category' => 'makanan basah',
+     'animal_type' => 'kucing',
+     'current_stock' => 22,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  108 => 
+  (object) array(
+     'sku_code' => 'CAT-BSH-259',
+     'name' => 'Nutricel urinary wet kaleng',
+     'category' => 'makanan basah',
+     'animal_type' => 'kucing',
+     'current_stock' => 23,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  109 => 
+  (object) array(
+     'sku_code' => 'CAT-BSH-260',
+     'name' => 'Nutricel gastro wet kaleng',
+     'category' => 'makanan basah',
+     'animal_type' => 'kucing',
+     'current_stock' => 24,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  110 => 
+  (object) array(
+     'sku_code' => 'CAT-BSH-261',
+     'name' => 'Nutricel antiinflamasi wet kaleng',
+     'category' => 'makanan basah',
+     'animal_type' => 'kucing',
+     'current_stock' => 25,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  111 => 
+  (object) array(
+     'sku_code' => 'CAT-BSH-262',
+     'name' => 'Pet expert bladder wet kaleng',
+     'category' => 'makanan basah',
+     'animal_type' => 'kucing',
+     'current_stock' => 27,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  112 => 
+  (object) array(
+     'sku_code' => 'CAT-BSH-263',
+     'name' => 'Pet expert instinsive wet kaleng',
+     'category' => 'makanan basah',
+     'animal_type' => 'kucing',
+     'current_stock' => 28,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  113 => 
+  (object) array(
+     'sku_code' => 'CAT-BSH-264',
+     'name' => 'Pet expert digestive wet kaleng',
+     'category' => 'makanan basah',
+     'animal_type' => 'kucing',
+     'current_stock' => 29,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  114 => 
+  (object) array(
+     'sku_code' => 'CAT-BSH-265',
+     'name' => 'Nutricel deworming spuit',
+     'category' => 'makanan basah',
+     'animal_type' => 'kucing',
+     'current_stock' => 30,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  115 => 
+  (object) array(
+     'sku_code' => 'CAT-BSH-266',
+     'name' => 'Nature bridge urinary tract 250gr',
+     'category' => 'makanan basah',
+     'animal_type' => 'kucing',
+     'current_stock' => 0,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  116 => 
+  (object) array(
+     'sku_code' => 'CAT-BSH-267',
+     'name' => 'Naature bridge gastro 250gr',
+     'category' => 'makanan basah',
+     'animal_type' => 'kucing',
+     'current_stock' => 0,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  117 => 
+  (object) array(
+     'sku_code' => 'CAT-BSH-268',
+     'name' => 'Nature bridge urinary tract 1kg',
+     'category' => 'makanan basah',
+     'animal_type' => 'kucing',
+     'current_stock' => 13,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  118 => 
+  (object) array(
+     'sku_code' => 'CAT-BSH-269',
+     'name' => 'Naature bridge gastro 1kg',
+     'category' => 'makanan basah',
+     'animal_type' => 'kucing',
+     'current_stock' => 21,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  119 => 
+  (object) array(
+     'sku_code' => 'CAT-BSH-270',
+     'name' => 'fancy feast kaleng all variant',
+     'category' => 'makanan basah',
+     'animal_type' => 'kucing',
+     'current_stock' => 2,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+)
+[2025-12-03 13:26:07] Row 0 insert exception: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'PSR-EQQ-001' for key 'sku_code'
+[2025-12-03 13:26:07] Row 1 insert exception: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'DOG-DRY-001' for key 'sku_code'
+[2025-12-04 18:20:22] Received import payload with 9 rows
+array (
+  0 => 
+  (object) array(
+     'sku_code' => 'PSR-EQQ-001',
+     'name' => 'Pasir Kucing',
+     'category' => 'sand',
+     'animal_type' => 'cat',
+     'current_stock' => 5,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 40000,
+  ),
+  1 => 
+  (object) array(
+     'sku_code' => 'DOG-DRY-001',
+     'name' => 'Royal Canin Maxi Adult',
+     'category' => 'dry_food',
+     'animal_type' => 'dog',
+     'current_stock' => 52,
+     'min_stock_threshold' => 10,
+     'price_buy' => 250000,
+     'price_sell' => 325000,
+  ),
+  2 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-001',
+     'name' => 'Makanan repack 250gr',
+     'category' => 'sand',
+     'animal_type' => 'all_animal',
+     'current_stock' => 5,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  3 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-002',
+     'name' => 'Makanan repack 400gr',
+     'category' => 'sand',
+     'animal_type' => 'all_animal',
+     'current_stock' => 5,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  4 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-003',
+     'name' => 'Pasir zeolite repack 1',
+     'category' => 'sand',
+     'animal_type' => 'all_animal',
+     'current_stock' => 12,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  5 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-004',
+     'name' => 'Pasir zeolite repack 2',
+     'category' => 'sand',
+     'animal_type' => 'all_animal',
+     'current_stock' => 19,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  6 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-005',
+     'name' => 'Pasir zeolite repack 3',
+     'category' => 'sand',
+     'animal_type' => 'all_animal',
+     'current_stock' => 8,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  7 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-006',
+     'name' => 'Pasir zeolite karung 1',
+     'category' => 'sand',
+     'animal_type' => 'all_animal',
+     'current_stock' => 9,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  8 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-007',
+     'name' => 'Pasir zeolite karung 2',
+     'category' => 'sand',
+     'animal_type' => 'all_animal',
+     'current_stock' => 0,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+)
+[2025-12-04 18:20:22] Row 0 insert exception: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'PSR-EQQ-001' for key 'sku_code'
+[2025-12-04 18:20:22] Row 1 insert exception: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'DOG-DRY-001' for key 'sku_code'
+[2025-12-04 18:30:40] Received import payload with 9 rows
+array (
+  0 => 
+  (object) array(
+     'sku_code' => 'PSR-EQQ-001',
+     'name' => 'Pasir Kucing',
+     'category' => 'sand',
+     'animal_type' => 'cat',
+     'current_stock' => 5,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 40000,
+  ),
+  1 => 
+  (object) array(
+     'sku_code' => 'DOG-DRY-001',
+     'name' => 'Royal Canin Maxi Adult',
+     'category' => 'dry_food',
+     'animal_type' => 'dog',
+     'current_stock' => 52,
+     'min_stock_threshold' => 10,
+     'price_buy' => 250000,
+     'price_sell' => 325000,
+  ),
+  2 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-001',
+     'name' => 'Makanan repack 250gr',
+     'category' => 'sand',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 5,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  3 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-002',
+     'name' => 'Makanan repack 400gr',
+     'category' => 'sand',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 5,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  4 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-003',
+     'name' => 'Pasir zeolite repack 1',
+     'category' => 'sand',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 12,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  5 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-004',
+     'name' => 'Pasir zeolite repack 2',
+     'category' => 'sand',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 19,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  6 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-005',
+     'name' => 'Pasir zeolite repack 3',
+     'category' => 'sand',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 8,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  7 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-006',
+     'name' => 'Pasir zeolite karung 1',
+     'category' => 'sand',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 9,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+  8 => 
+  (object) array(
+     'sku_code' => 'PSR-DTY-007',
+     'name' => 'Pasir zeolite karung 2',
+     'category' => 'sand',
+     'animal_type' => 'semua hewan',
+     'current_stock' => 0,
+     'min_stock_threshold' => 10,
+     'price_buy' => 30000,
+     'price_sell' => 45000,
+  ),
+)
+[2025-12-04 18:30:40] Row 0 insert exception: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'PSR-EQQ-001' for key 'sku_code'
+[2025-12-04 18:30:40] Row 1 insert exception: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'DOG-DRY-001' for key 'sku_code'
+[2025-12-04 22:26:39] Received import payload with 2 rows
+array (
+  0 => 
+  (object) array(
+     'sku_code' => 'PSR-EQQ-088',
+     'name' => 'Pasir Kucing',
+     'category' => 'sand',
+     'animal_type' => 'all',
+     'current_stock' => 5,
+     'min_stock_threshold' => 5,
+     'price_buy' => 30000,
+     'price_sell' => 40000,
+  ),
+  1 => 
+  (object) array(
+     'sku_code' => 'DOG-DRY-088',
+     'name' => 'Royal Canin Maxi Adult',
+     'category' => 'dry_food',
+     'animal_type' => 'dog',
+     'current_stock' => 52,
+     'min_stock_threshold' => 10,
+     'price_buy' => 250000,
+     'price_sell' => 325000,
+  ),
+)
+[2025-12-05 10:26:50] Received import payload with 2 rows
+array (
+  0 => 
+  (object) array(
+     'sku_code' => 'PSR-EQQ-088',
+     'name' => 'Pasir Kucing',
+     'category' => 'sand',
+     'animal_type' => 'all',
+     'current_stock' => 5,
+     'min_stock_threshold' => 5,
+     'price_buy' => 30000,
+     'price_sell' => 40000,
+  ),
+  1 => 
+  (object) array(
+     'sku_code' => 'DOG-DRY-088',
+     'name' => 'Royal Canin Maxi Adult',
+     'category' => 'dry_food',
+     'animal_type' => 'dog',
+     'current_stock' => 52,
+     'min_stock_threshold' => 10,
+     'price_buy' => 250000,
+     'price_sell' => 325000,
+  ),
+)
+[2025-12-05 10:26:50] Row 0 insert exception: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'PSR-EQQ-088' for key 'sku_code'
+[2025-12-05 10:26:50] Row 1 insert exception: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'DOG-DRY-088' for key 'sku_code'
+[2025-12-05 10:38:17] Received import payload with 2 rows
+array (
+  0 => 
+  (object) array(
+     'sku_code' => 'PSR-EQQ-088',
+     'name' => 'Pasir Kucing',
+     'category' => 'sand',
+     'animal_type' => 'all',
+     'current_stock' => 5,
+     'min_stock_threshold' => 5,
+     'price_buy' => 30000,
+     'price_sell' => 40000,
+  ),
+  1 => 
+  (object) array(
+     'sku_code' => 'DOG-DRY-088',
+     'name' => 'Royal Canin Maxi Adult',
+     'category' => 'dry_food',
+     'animal_type' => 'dog',
+     'current_stock' => 52,
+     'min_stock_threshold' => 10,
+     'price_buy' => 250000,
+     'price_sell' => 325000,
+  ),
+)
+[2025-12-05 10:38:17] Row 0 insert exception: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'PSR-EQQ-088' for key 'sku_code'
+[2025-12-05 10:38:17] Row 1 insert exception: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'DOG-DRY-088' for key 'sku_code'
+[2025-12-05 10:40:22] Received import payload with 2 rows
+array (
+  0 => 
+  (object) array(
+     'sku_code' => 'PSR-EQQ-088',
+     'name' => 'Pasir Kucing',
+     'category' => 'sand',
+     'animal_type' => 'all',
+     'current_stock' => 5,
+     'min_stock_threshold' => 5,
+     'price_buy' => 30000,
+     'price_sell' => 40000,
+  ),
+  1 => 
+  (object) array(
+     'sku_code' => 'DOG-DRY-088',
+     'name' => 'Royal Canin Maxi Adult',
+     'category' => 'dry_food',
+     'animal_type' => 'dog',
+     'current_stock' => 52,
+     'min_stock_threshold' => 10,
+     'price_buy' => 250000,
+     'price_sell' => 325000,
+  ),
+)
+[2025-12-05 10:40:22] Row 0 insert exception: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'PSR-EQQ-088' for key 'sku_code'
+[2025-12-05 10:40:22] Row 1 insert exception: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'DOG-DRY-088' for key 'sku_code'
+[2025-12-05 10:42:19] Received import payload with 2 rows
+array (
+  0 => 
+  (object) array(
+     'sku_code' => 'PSR-EQQ-001',
+     'name' => 'Pasir Kucing',
+     'category' => 'sand',
+     'animal_type' => 'cat',
+     'current_stock' => 5,
+     'min_stock_threshold' => 5,
+     'price_buy' => 30000,
+     'price_sell' => 40000,
+  ),
+  1 => 
+  (object) array(
+     'sku_code' => 'DOG-DRY-001',
+     'name' => 'Royal Canin Maxi Adult',
+     'category' => 'dry_food',
+     'animal_type' => 'dog',
+     'current_stock' => 52,
+     'min_stock_threshold' => 10,
+     'price_buy' => 250000,
+     'price_sell' => 325000,
+  ),
+)
+[2025-12-05 10:42:19] Row 0 insert exception: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'PSR-EQQ-001' for key 'sku_code'
+[2025-12-05 10:42:19] Row 1 insert exception: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'DOG-DRY-001' for key 'sku_code'
+[2025-12-05 10:45:02] Received import payload with 2 rows
+array (
+  0 => 
+  (object) array(
+     'sku_code' => 'PSR-EQQ-001',
+     'name' => 'Pasir Kucing',
+     'category' => 'sand',
+     'animal_type' => 'cat',
+     'current_stock' => 5,
+     'min_stock_threshold' => 5,
+     'price_buy' => 30000,
+     'price_sell' => 40000,
+  ),
+  1 => 
+  (object) array(
+     'sku_code' => 'DOG-DRY-001',
+     'name' => 'Royal Canin Maxi Adult',
+     'category' => 'dry_food',
+     'animal_type' => 'dog',
+     'current_stock' => 52,
+     'min_stock_threshold' => 10,
+     'price_buy' => 250000,
+     'price_sell' => 325000,
+  ),
+)
+[2025-12-05 10:45:41] Received import payload with 2 rows
+array (
+  0 => 
+  (object) array(
+     'sku_code' => 'PSR-EQQ-001',
+     'name' => 'hhhh',
+     'category' => 'sand',
+     'animal_type' => 'cat',
+     'current_stock' => 5,
+     'min_stock_threshold' => 5,
+     'price_buy' => 30000,
+     'price_sell' => 40000,
+  ),
+  1 => 
+  (object) array(
+     'sku_code' => 'DOG-DRY-001',
+     'name' => 'jjjjj',
+     'category' => 'dry_food',
+     'animal_type' => 'dog',
+     'current_stock' => 52,
+     'min_stock_threshold' => 10,
+     'price_buy' => 250000,
+     'price_sell' => 325000,
+  ),
+)
+[2025-12-05 11:02:03] Received import payload with 2 rows
+array (
+  0 => 
+  (object) array(
+     'sku_code' => 'PSR-EQQ-001',
+     'name' => 'hhhh',
+     'category' => 'sand',
+     'animal_type' => 'cat',
+     'current_stock' => 5,
+     'min_stock_threshold' => 5,
+     'price_buy' => 30000,
+     'price_sell' => 40000,
+  ),
+  1 => 
+  (object) array(
+     'sku_code' => 'DOG-DRY-001',
+     'name' => 'jjjjj',
+     'category' => 'dry_food',
+     'animal_type' => 'dog',
+     'current_stock' => 52,
+     'min_stock_threshold' => 10,
+     'price_buy' => 250000,
+     'price_sell' => 325000,
+  ),
+)
+[2025-12-05 11:02:03] Row 0 insert exception: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'PSR-EQQ-001' for key 'sku_code'
+[2025-12-05 11:02:03] Row 1 insert exception: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'DOG-DRY-001' for key 'sku_code'
+[2025-12-05 11:07:19] Received import payload with 2 rows
+array (
+  0 => 
+  (object) array(
+     'sku_code' => 'PSR-EQQ-001',
+     'name' => 'hhhh',
+     'category' => 'sand',
+     'animal_type' => 'cat',
+     'current_stock' => 5,
+     'min_stock_threshold' => 5,
+     'price_buy' => 30000,
+     'price_sell' => 40000,
+  ),
+  1 => 
+  (object) array(
+     'sku_code' => 'DOG-DRY-001',
+     'name' => 'jjjjj',
+     'category' => 'dry_food',
+     'animal_type' => 'dog',
+     'current_stock' => 52,
+     'min_stock_threshold' => 10,
+     'price_buy' => 250000,
+     'price_sell' => 325000,
+  ),
+)
+[2025-12-05 11:07:19] Row 0 insert exception: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'PSR-EQQ-001' for key 'sku_code'
+[2025-12-05 11:07:19] Row 1 insert exception: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'DOG-DRY-001' for key 'sku_code'
+[2025-12-05 11:07:50] Received import payload with 2 rows
+array (
+  0 => 
+  (object) array(
+     'sku_code' => 'PSR-EQQ-001',
+     'name' => 'hhhh',
+     'category' => 'sand',
+     'animal_type' => 'cat',
+     'current_stock' => 5,
+     'min_stock_threshold' => 5,
+     'price_buy' => 30000,
+     'price_sell' => 40000,
+  ),
+  1 => 
+  (object) array(
+     'sku_code' => 'DOG-DRY-001',
+     'name' => 'jjjjj',
+     'category' => 'dry_food',
+     'animal_type' => 'dog',
+     'current_stock' => 52,
+     'min_stock_threshold' => 10,
+     'price_buy' => 250000,
+     'price_sell' => 325000,
+  ),
+)
+[2025-12-05 11:07:50] Row 0 insert exception: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'PSR-EQQ-001' for key 'sku_code'
+[2025-12-05 11:07:50] Row 1 insert exception: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'DOG-DRY-001' for key 'sku_code'
+[2025-12-05 11:12:00] Received import payload with 2 rows
+array (
+  0 => 
+  (object) array(
+     'sku_code' => 'PSR-EQQ-001',
+     'name' => 'hhhh',
+     'category' => 'sand',
+     'animal_type' => 'cat',
+     'current_stock' => 5,
+     'min_stock_threshold' => 5,
+     'price_buy' => 30000,
+     'price_sell' => 40000,
+  ),
+  1 => 
+  (object) array(
+     'sku_code' => 'DOG-DRY-001',
+     'name' => 'jjjjj',
+     'category' => 'dry_food',
+     'animal_type' => 'dog',
+     'current_stock' => 52,
+     'min_stock_threshold' => 10,
+     'price_buy' => 250000,
+     'price_sell' => 325000,
+  ),
+)
+[2025-12-05 11:12:37] Received import payload with 2 rows
+array (
+  0 => 
+  (object) array(
+     'sku_code' => 'PSR-EQQ-001',
+     'name' => 'Pasir Kucing oren',
+     'category' => 'sand',
+     'animal_type' => 'cat',
+     'current_stock' => 5,
+     'min_stock_threshold' => 5,
+     'price_buy' => 30000,
+     'price_sell' => 40000,
+  ),
+  1 => 
+  (object) array(
+     'sku_code' => 'DOG-DRY-001',
+     'name' => 'Royal Canin Maxi komeng',
+     'category' => 'dry_food',
+     'animal_type' => 'dog',
+     'current_stock' => 52,
+     'min_stock_threshold' => 10,
+     'price_buy' => 250000,
+     'price_sell' => 325000,
+  ),
+)
+[2025-12-05 11:17:05] Received import payload with 2 rows
+array (
+  0 => 
+  (object) array(
+     'sku_code' => 'PSR-EQQ-001',
+     'name' => 'Pasir Kucing oren',
+     'category' => 'sand',
+     'animal_type' => 'cat',
+     'current_stock' => 5,
+     'min_stock_threshold' => 5,
+     'price_buy' => 30000,
+     'price_sell' => 40000,
+  ),
+  1 => 
+  (object) array(
+     'sku_code' => 'DOG-DRY-001',
+     'name' => 'Royal Canin Maxi komeng',
+     'category' => 'dry_food',
+     'animal_type' => 'dog',
+     'current_stock' => 52,
+     'min_stock_threshold' => 10,
+     'price_buy' => 250000,
+     'price_sell' => 325000,
+  ),
+)
+[2025-12-05 11:17:35] Running test_import_batch with 3 rows
+[2025-12-05 11:17:35] Row 0: create => OK (sku: BATCH-TEST-001)
+[2025-12-05 11:17:35] Row 1: create => OK (sku: BATCH-TEST-002)
+[2025-12-05 11:17:35] Row 2: update => OK (sku: BATCH-TEST-001)
+[2025-12-05 11:17:35] Test results: {"created":2,"updated":1,"failed":0,"errors":[]}
+[2025-12-05 11:18:19] Received import payload with 2 rows
+array (
+  0 => 
+  (object) array(
+     'sku_code' => 'PSR-EQQ-001',
+     'name' => 'Pasir Kucing oren',
+     'category' => 'sand',
+     'animal_type' => 'cat',
+     'current_stock' => 5,
+     'min_stock_threshold' => 5,
+     'price_buy' => 30000,
+     'price_sell' => 40000,
+  ),
+  1 => 
+  (object) array(
+     'sku_code' => 'DOG-DRY-001',
+     'name' => 'Royal Canin Maxi komeng',
+     'category' => 'dry_food',
+     'animal_type' => 'dog',
+     'current_stock' => 52,
+     'min_stock_threshold' => 10,
+     'price_buy' => 250000,
+     'price_sell' => 325000,
+  ),
+)
+[2025-12-05 11:20:55] Received import payload with 2 rows
+[2025-12-05 11:20:55] Processing Row 0: {"sku_code":"PSR-EQQ-001","name":"Pasir Kucing oren","category":"sand","animal_type":"cat","current_stock":5,"min_stock_threshold":5,"price_buy":30000,"price_sell":40000}
+[2025-12-05 11:20:55] Row 0: existing check => {"id":6,"sku_code":"PSR-EQQ-001","name":"Pasir Kucing oren","category":"sand","animal_type":"cat","current_stock":5,"min_stock_threshold":5,"price_buy":"30000.00","price_sell":"40000.00","created_at":"2025-12-01 17:57:25","updated_at":"2025-12-05 17:18:19"}
+[2025-12-05 11:20:55] Row 0: updated id 6
+[2025-12-05 11:20:55] Processing Row 1: {"sku_code":"DOG-DRY-001","name":"Royal Canin Maxi komeng","category":"dry_food","animal_type":"dog","current_stock":52,"min_stock_threshold":10,"price_buy":250000,"price_sell":325000}
+[2025-12-05 11:20:55] Row 1: existing check => {"id":1,"sku_code":"DOG-DRY-001","name":"Royal Canin Maxi komeng","category":"dry_food","animal_type":"dog","current_stock":52,"min_stock_threshold":10,"price_buy":"250000.00","price_sell":"325000.00","created_at":"2025-12-01 16:12:43","updated_at":"2025-12-05 17:18:19"}
+[2025-12-05 11:20:55] Row 1: updated id 1
+[2025-12-05 11:20:55] Import summary: {"created":0,"updated":2,"failed":0,"errors":[]}
+[2025-12-05 11:22:00] Received import payload with 2 rows
+[2025-12-05 11:22:00] Processing Row 0: {"sku_code":"PSR-EQQ-001","name":"hhhh","category":"sand","animal_type":"cat","current_stock":5,"min_stock_threshold":5,"price_buy":30000,"price_sell":40000}
+[2025-12-05 11:22:00] Row 0: existing check => {"id":6,"sku_code":"PSR-EQQ-001","name":"Pasir Kucing oren","category":"sand","animal_type":"cat","current_stock":5,"min_stock_threshold":5,"price_buy":"30000.00","price_sell":"40000.00","created_at":"2025-12-01 17:57:25","updated_at":"2025-12-05 17:20:55"}
+[2025-12-05 11:22:00] Row 0: updated id 6
+[2025-12-05 11:22:00] Processing Row 1: {"sku_code":"DOG-DRY-001","name":"jjjjj","category":"dry_food","animal_type":"dog","current_stock":52,"min_stock_threshold":10,"price_buy":250000,"price_sell":325000}
+[2025-12-05 11:22:00] Row 1: existing check => {"id":1,"sku_code":"DOG-DRY-001","name":"Royal Canin Maxi komeng","category":"dry_food","animal_type":"dog","current_stock":52,"min_stock_threshold":10,"price_buy":"250000.00","price_sell":"325000.00","created_at":"2025-12-01 16:12:43","updated_at":"2025-12-05 17:20:55"}
+[2025-12-05 11:22:00] Row 1: updated id 1
+[2025-12-05 11:22:00] Import summary: {"created":0,"updated":2,"failed":0,"errors":[]}
+[2025-12-05 11:24:16] Received import payload with 2 rows
+[2025-12-05 11:24:16] Processing Row 0: {"sku_code":"PSR-EQQ-001","name":"Pasir Kucing oren","category":"sand","animal_type":"cat","current_stock":5,"min_stock_threshold":5,"price_buy":30000,"price_sell":40000}
+[2025-12-05 11:24:16] Row 0: existing check => {"id":6,"sku_code":"PSR-EQQ-001","name":"hhhh","category":"sand","animal_type":"cat","current_stock":5,"min_stock_threshold":5,"price_buy":"30000.00","price_sell":"40000.00","created_at":"2025-12-01 17:57:25","updated_at":"2025-12-05 17:22:00"}
+[2025-12-05 11:24:16] Row 0: updated id 6
+[2025-12-05 11:24:16] Processing Row 1: {"sku_code":"DOG-DRY-001","name":"Royal Canin Maxi komeng","category":"dry_food","animal_type":"dog","current_stock":52,"min_stock_threshold":10,"price_buy":250000,"price_sell":325000}
+[2025-12-05 11:24:16] Row 1: existing check => {"id":1,"sku_code":"DOG-DRY-001","name":"jjjjj","category":"dry_food","animal_type":"dog","current_stock":52,"min_stock_threshold":10,"price_buy":"250000.00","price_sell":"325000.00","created_at":"2025-12-01 16:12:43","updated_at":"2025-12-05 17:22:00"}
+[2025-12-05 11:24:16] Row 1: updated id 1
+[2025-12-05 11:24:16] Import summary: {"created":0,"updated":2,"failed":0,"errors":[]}
+[2025-12-05 11:26:57] Running test_import_batch with 3 rows
+[2025-12-05 11:26:57] Row 0: create => OK (sku: BATCH-TEST-001)
+[2025-12-05 11:26:57] Row 1: create => OK (sku: BATCH-TEST-002)
+[2025-12-05 11:26:57] Row 2: update => OK (sku: BATCH-TEST-001)
+[2025-12-05 11:26:57] Test results: {"created":2,"updated":1,"failed":0,"errors":[]}
+[2025-12-05 11:27:45] Received import payload with 2 rows
+[2025-12-05 11:27:45] Processing Row 0: {"sku_code":"PSR-EQQ-001","name":"Pasir Kucing oren","category":"sand","animal_type":"cat","current_stock":5,"min_stock_threshold":5,"price_buy":30000,"price_sell":40000}
+[2025-12-05 11:27:45] Row 0: existing check => {"id":6,"sku_code":"PSR-EQQ-001","name":"Pasir Kucing oren","category":"sand","animal_type":"cat","current_stock":5,"min_stock_threshold":5,"price_buy":"30000.00","price_sell":"40000.00","created_at":"2025-12-01 17:57:25","updated_at":"2025-12-05 17:24:16"}
+[2025-12-05 11:27:45] Row 0: updated id 6
+[2025-12-05 11:27:45] Processing Row 1: {"sku_code":"DOG-DRY-001","name":"Royal Canin Maxi komeng","category":"dry_food","animal_type":"dog","current_stock":52,"min_stock_threshold":10,"price_buy":250000,"price_sell":325000}
+[2025-12-05 11:27:45] Row 1: existing check => {"id":1,"sku_code":"DOG-DRY-001","name":"Royal Canin Maxi komeng","category":"dry_food","animal_type":"dog","current_stock":52,"min_stock_threshold":10,"price_buy":"250000.00","price_sell":"325000.00","created_at":"2025-12-01 16:12:43","updated_at":"2025-12-05 17:24:16"}
+[2025-12-05 11:27:45] Row 1: updated id 1
+[2025-12-05 11:27:45] Import summary: {"created":0,"updated":2,"failed":0,"errors":[]}
+[2025-12-05 11:30:07] Running test_import_batch with 3 rows
+[2025-12-05 11:30:07] Row 0: create => OK (sku: BATCH-TEST-001)
+[2025-12-05 11:30:07] Row 1: create => OK (sku: BATCH-TEST-002)
+[2025-12-05 11:30:07] Row 2: update => OK (sku: BATCH-TEST-001)
+[2025-12-05 11:30:07] Test results: {"created":2,"updated":1,"failed":0,"errors":[]}
+[2025-12-05 11:30:45] Received import payload with 2 rows
+[2025-12-05 11:30:45] Processing Row 0: {"sku_code":"PSR-EQQ-001","name":"Pasir Kucing oren","category":"sand","animal_type":"cat","current_stock":5,"min_stock_threshold":5,"price_buy":30000,"price_sell":40000}
+[2025-12-05 11:30:45] Row 0: upserted product (sku: PSR-EQQ-001)
+[2025-12-05 11:30:45] Processing Row 1: {"sku_code":"DOG-DRY-001","name":"Royal Canin Maxi komeng","category":"dry_food","animal_type":"dog","current_stock":52,"min_stock_threshold":10,"price_buy":250000,"price_sell":325000}
+[2025-12-05 11:30:45] Row 1: upserted product (sku: DOG-DRY-001)
+[2025-12-05 11:30:45] Import summary: {"created":2,"updated":0,"failed":0,"errors":[]}
+[2025-12-05 11:34:20] Received import payload with 2 rows
+[2025-12-05 11:34:20] Processing Row 0: {"sku_code":"PSR-EQQ-001","name":"cuks","category":"sand","animal_type":"cat","current_stock":5,"min_stock_threshold":5,"price_buy":30000,"price_sell":40000}
+[2025-12-05 11:34:20] Row 0: upserted product (sku: PSR-EQQ-001)
+[2025-12-05 11:34:20] Processing Row 1: {"sku_code":"DOG-DRY-001","name":"aih","category":"dry_food","animal_type":"dog","current_stock":52,"min_stock_threshold":10,"price_buy":250000,"price_sell":325000}
+[2025-12-05 11:34:20] Row 1: upserted product (sku: DOG-DRY-001)
+[2025-12-05 11:34:20] Import summary: {"created":2,"updated":0,"failed":0,"errors":[]}
+[2025-12-06 16:12:28] Testing barang category with 2 rows
+[2025-12-06 16:12:28] Row 0: barang upserted successfully (sku: BARANG-TEST-001, category: barang)
+[2025-12-06 16:12:28] Row 1: barang upserted successfully (sku: BARANG-TEST-002, category: barang)
+[2025-12-06 16:12:28] Barang category test results: {"created":2,"updated":0,"failed":0,"errors":[]}
+[2025-12-06 19:01:23] Product::update exception: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'sku_code' | {"id":"167","sku_code":"","name":"koploks","category":"dry_food","animal_type":"dog","current_stock":"10","min_stock_threshold":"10","price_buy":"25000","price_sell":"36500","created_at":null,"updated_at":null,"lastError":"SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'sku_code'"}
+[2025-12-06 19:06:18] PUT request: {"sku_code":"BRG-TST-001","name":"Harness Anjingss","category":"barang","animal_type":"dog","current_stock":15,"min_stock_threshold":5,"price_buy":50000,"price_sell":75000,"id":176}
+[2025-12-06 19:06:18] PUT update successful for product ID 176
+[2025-12-06 19:08:35] PUT request: {"sku_code":"BRG-TST-002","name":"Mainan Kucing","category":"barang","animal_type":"cat","current_stock":20,"min_stock_threshold":3,"price_buy":25000,"price_sell":40000,"id":177}
+[2025-12-06 19:08:35] PUT update successful for product ID 177
+[2025-12-06 19:19:37] PUT request: {"sku_code":"DOG-DRY-473","name":"koploks","category":"dry_food","animal_type":"dog","current_stock":10,"min_stock_threshold":10,"price_buy":25000,"price_sell":36500,"id":167}
+[2025-12-06 19:19:37] PUT update successful for product ID 167
+[2025-12-07 09:27:48] PUT request: {"sku_code":"DOG-DRY-473","name":"koploks","category":"","animal_type":"dog","current_stock":10,"min_stock_threshold":10,"price_buy":25000,"price_sell":36500,"id":167}
+[2025-12-07 09:27:48] PUT update successful for product ID 167
+[2025-12-07 09:37:15] PUT request: {"sku_code":"BRG-TST-002","name":"Mainan Kucing","category":"barang","animal_type":"kucing","current_stock":20,"min_stock_threshold":3,"price_buy":25000,"price_sell":40000,"id":177}
+[2025-12-07 09:37:15] PUT update successful for product ID 177
+[2025-12-07 09:37:29] PUT request: {"sku_code":"DOG-DRY-664","name":"snackbox koceng oren","category":"snack","animal_type":"kucing","current_stock":9,"min_stock_threshold":10,"price_buy":20000,"price_sell":30000,"id":157}
+[2025-12-07 09:37:29] PUT update successful for product ID 157
+[2025-12-07 09:37:40] PUT request: {"sku_code":"PSR-EQQ-088","name":"Pasir Kucing","category":"","animal_type":"kucing","current_stock":5,"min_stock_threshold":5,"price_buy":30000,"price_sell":40000,"id":146}
+[2025-12-07 09:37:40] PUT update successful for product ID 146
+[2025-12-07 09:37:54] PUT request: {"sku_code":"BRG-TST-001","name":"Harness Anjingss","category":"barang","animal_type":"anjing","current_stock":15,"min_stock_threshold":5,"price_buy":50000,"price_sell":75000,"id":176}
+[2025-12-07 09:37:54] PUT update successful for product ID 176
+[2025-12-07 09:38:31] PUT request: {"sku_code":"DOG-DRY-473","name":"koploks","category":"","animal_type":"semua","current_stock":10,"min_stock_threshold":10,"price_buy":25000,"price_sell":36500,"id":167}
+[2025-12-07 09:38:31] PUT update successful for product ID 167
+[2025-12-07 09:45:53] PUT request: {"sku_code":"DOG-DRY-088","name":"Royal Canin Maxi Adult","category":"makanan_basah","animal_type":"semua","current_stock":51,"min_stock_threshold":10,"price_buy":250000,"price_sell":325000,"id":147}
+[2025-12-07 09:45:53] PUT update successful for product ID 147
+[2025-12-07 09:57:12] PUT request: {"sku_code":"DOG-DRY-828","name":"pasir leuweung","category":"pasir","animal_type":"semua","current_stock":9,"min_stock_threshold":10,"price_buy":25000,"price_sell":37000,"id":156}
+[2025-12-07 09:57:12] PUT update successful for product ID 156
+[2025-12-07 09:58:24] PUT request: {"sku_code":"PSR-EQQ-088","name":"Pasir Kucing","category":"pasir","animal_type":"kucing","current_stock":5,"min_stock_threshold":5,"price_buy":30000,"price_sell":40000,"id":146}
+[2025-12-07 09:58:24] PUT update successful for product ID 146
+[2025-12-07 10:00:27] PUT request: {"sku_code":"PSR-DTY-003","name":"Pasir zeolite repack 1","category":"pasir","animal_type":"semua","current_stock":12,"min_stock_threshold":10,"price_buy":30000,"price_sell":45000,"id":141}
+[2025-12-07 10:00:27] PUT update successful for product ID 141
+[2025-12-07 10:00:36] PUT request: {"sku_code":"PSR-DTY-004","name":"Pasir zeolite repack 2","category":"pasir","animal_type":"semua","current_stock":19,"min_stock_threshold":10,"price_buy":30000,"price_sell":45000,"id":142}
+[2025-12-07 10:00:36] PUT update successful for product ID 142
+[2025-12-07 10:00:45] PUT request: {"sku_code":"PSR-DTY-005","name":"Pasir zeolite repack 3","category":"pasir","animal_type":"semua","current_stock":8,"min_stock_threshold":10,"price_buy":30000,"price_sell":45000,"id":143}
+[2025-12-07 10:00:45] PUT update successful for product ID 143
+[2025-12-07 10:00:54] PUT request: {"sku_code":"PSR-DTY-006","name":"Pasir zeolite karung 1","category":"pasir","animal_type":"semua","current_stock":9,"min_stock_threshold":10,"price_buy":30000,"price_sell":45000,"id":144}
+[2025-12-07 10:00:54] PUT update successful for product ID 144
+[2025-12-07 10:01:01] PUT request: {"sku_code":"PSR-DTY-007","name":"Pasir zeolite karung 2","category":"pasir","animal_type":"semua","current_stock":0,"min_stock_threshold":10,"price_buy":30000,"price_sell":45000,"id":145}
+[2025-12-07 10:01:01] PUT update successful for product ID 145
+[2025-12-07 10:02:17] PUT request: {"sku_code":"CAT-DRY-001","name":"Whiskas Adult 1+","category":"makanan_basah","animal_type":"semua","current_stock":39,"min_stock_threshold":8,"price_buy":75000,"price_sell":95000,"id":3}
+[2025-12-07 10:02:17] PUT update successful for product ID 3
+[2025-12-07 10:02:29] PUT request: {"sku_code":"CAT-SAND-001","name":"Bentonite Cat Litter","category":"makanan_basah","animal_type":"semua","current_stock":25,"min_stock_threshold":5,"price_buy":45000,"price_sell":65000,"id":5}
+[2025-12-07 10:02:29] PUT update successful for product ID 5
+[2025-12-07 10:54:54] PUT request: {"sku_code":"DOG-DRY-473","name":"koploks","category":"makanan_kering","animal_type":"semua","current_stock":9,"min_stock_threshold":10,"price_buy":25000,"price_sell":36500,"id":167}
+[2025-12-07 10:54:54] PUT update successful for product ID 167
+[2025-12-07 10:55:08] PUT request: {"sku_code":"DOG-DRY-473","name":"koploks","category":"makanan_kering","animal_type":"semua","current_stock":9,"min_stock_threshold":11,"price_buy":25000,"price_sell":36500,"id":167}
+[2025-12-07 10:55:08] PUT update successful for product ID 167
+[2025-12-07 10:55:34] PUT request: {"sku_code":"DOG-DRY-473","name":"koploks","category":"makanan_kering","animal_type":"semua","current_stock":0,"min_stock_threshold":10,"price_buy":25000,"price_sell":36500,"id":167}
+[2025-12-07 10:55:34] PUT update successful for product ID 167
+[2025-12-07 11:48:50] PUT request: {"sku_code":"DOG-DRY-717","name":"supeo","category":"makanan_kering","animal_type":"kucing","current_stock":6,"min_stock_threshold":10,"price_buy":20000,"price_sell":30000,"id":178}
+[2025-12-07 11:48:50] PUT update successful for product ID 178
+[2025-12-07 11:49:17] PUT request: {"sku_code":"DOG-DRY-717","name":"supeo","category":"makanan_kering","animal_type":"kucing","current_stock":6,"min_stock_threshold":10,"price_buy":20000,"price_sell":30000,"id":178}
+[2025-12-07 11:49:17] PUT update successful for product ID 178
+[2025-12-07 12:35:55] Received import payload with 5 rows
+[2025-12-07 12:35:55] Processing Row 0: {"sku_code":"PSR-EQQ-001","name":"cuks","category":"pasir","animal_type":"kucing","current_stock":5,"min_stock_threshold":10,"price_buy":30000,"price_sell":40000}
+[2025-12-07 12:35:55] Row 0: upserted product (sku: PSR-EQQ-001)
+[2025-12-07 12:35:55] Processing Row 1: {"sku_code":"DOG-DRY-001","name":"aih","category":"makanan_basah","animal_type":"anjing","current_stock":52,"min_stock_threshold":10,"price_buy":250000,"price_sell":325000}
+[2025-12-07 12:35:55] Row 1: upserted product (sku: DOG-DRY-001)
+[2025-12-07 12:35:55] Processing Row 2: {"sku_code":"BRG-TST-003","name":"blay","category":"barang","animal_type":"semua","current_stock":0,"min_stock_threshold":10,"price_buy":25000,"price_sell":35000}
+[2025-12-07 12:35:55] Row 2: upserted product (sku: BRG-TST-003)
+[2025-12-07 12:35:55] Processing Row 3: {"sku_code":"BRG-TST-004","name":"zzzzz","category":"makanan_kering","animal_type":"semua","current_stock":1,"min_stock_threshold":10,"price_buy":25000,"price_sell":35000}
+[2025-12-07 12:35:55] Row 3: upserted product (sku: BRG-TST-004)
+[2025-12-07 12:35:55] Processing Row 4: {"sku_code":"BRG-TST-005","name":"rrrr","category":"snack","animal_type":"kucing","current_stock":6,"min_stock_threshold":10,"price_buy":25000,"price_sell":35000}
+[2025-12-07 12:35:55] Row 4: upserted product (sku: BRG-TST-005)
+[2025-12-07 12:35:55] Import summary: {"created":5,"updated":0,"failed":0,"errors":[]}
